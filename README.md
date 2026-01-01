@@ -31,6 +31,22 @@ I am a <mark>**UX designer**</mark> and a <mark>**web developer**</mark> from He
 <br />
 <br />
 
+## Projects
+Here are some of my projects.
+🚧 This section is currently under construction.
+
+### Design
+
+#### Digitoimisto Haiku
+[Haiku's site](https://www.haikudigital.fi)
+
+#### North Patrol
+[North Patrol's site](https://www.northpatrol.fi)
+
+### Development
+
+#### Testing CSS stuff in Codepen
+
 ## Statistics
 Well, this is a bit embarrassing... 🫣 A new year's resolution for 2026: <mark>**Be more active on Github**</mark>.
 <br />
