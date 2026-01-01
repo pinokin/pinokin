@@ -33,20 +33,20 @@ Here are some of my projects.
 
 > 🚧 This section is currently under construction.
 
-### Design
+### 🎨 Design
 My main role for the past 10 years have been _UX designer_.
 
 #### Digitoimisto Haiku
 As a freelancer, I designed the visual identity for Haiku's website. I also designed some of the CSS, but the actual coding (in Wordpress) was not done by me.
 
-[<img alt="Digitoimisto Haiku" title="Digitoimisto Haiku" src="https://img.shields.io/badge/Haiku%27s%20site-7C4F0B?style=for-the-badge" />][haikusite]
+[<img alt="Digitoimisto Haiku" title="Digitoimisto Haiku" src="https://custom-icon-badges.demolab.com/badge/Haiku%27s%20site-7C4F0B.svg?style=for-the-badge&logo=eye&logoColor=white" />][haikusite]
 
 #### North Patrol
-For my previous employee, I designed the layout for their website.
+For my previous employer, I designed the layout for their website.
 
-[<img alt="North Patrol" title="North Patrol" src="https://img.shields.io/badge/North%20Patrol%27s%20site-7C4F0B?style=for-the-badge" />][northpatrolsite]
+[<img alt="North Patrol" title="North Patrol" src="https://custom-icon-badges.demolab.com/badge/North%20Patrol%27s%20site-7C4F0B.svg?style=for-the-badge&logo=eye&logoColor=white" />][northpatrolsite]
 
-### Development
+### 👩‍💻 Development
 
 #### Testing CSS stuff in Codepen
 
