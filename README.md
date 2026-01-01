@@ -2,7 +2,11 @@
 **`Jack of all trades, master of some.`**
 <br />
 <br />
-[<img alt="Github followers" title="Github followers" src="https://custom-icon-badges.demolab.com/github/followers/pinokin?style=for-the-badge&logo=person&label=Followers&color=7C4F0B&labelColor=482C03&logoColor=FFF9F0" />][githubfollowers]
+[<img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-7C4F0B?style=for-the-badge" />][linkedin]
+&nbsp;
+[<img alt="Codepen" title="Codepen" src="https://img.shields.io/badge/Codepen-7C4F0B?style=for-the-badge" />][codepen]
+&nbsp;
+[<img alt="Github followers" title="Github followers" src="https://custom-icon-badges.demolab.com/github/followers/pinokin?style=for-the-badge&logo=person&label=Github%20followers&color=7C4F0B&labelColor=482C03&logoColor=FFF9F0" />][githubfollowers]
 <br />
 <br />
 I am a <mark>**UX designer**</mark> and a <mark>**web developer**</mark> from Helsinki, Finland, with 20+ years of experience in the IT industry. Work-wise I am really passionate about <mark>**accessibility**</mark> and <mark>**CSS**</mark>.
@@ -10,13 +14,6 @@ I am a <mark>**UX designer**</mark> and a <mark>**web developer**</mark> from He
 - 🔭 I’m currently working on a client website where I'm using _Wordpress as a headless CMS_, and the frontend is done with _Astro_.
 - 💬 Ask me about _accessibility_ and _CSS_. And _typography_. And PKM (_Personal Knowledge Management_). And _stickers_. Oh, and **_cats_**! Ask me about my cats. 😻
 - ⚡ Fun fact: I've studied over 20 languages during the years, some to a higher level and some... not so much. Currently I'm learning _Danish_ and _Korean_.
-
-## Connect with me
-[<img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-7C4F0B?style=for-the-badge" />][linkedin]
-&nbsp;&nbsp;
-[<img alt="Codepen" title="Codepen" src="https://img.shields.io/badge/Codepen-7C4F0B?style=for-the-badge" />][codepen]
-<br />
-<br />
 
 ## Languages and tools
 <img align="left" width="32px" style="padding-right:1rem;" alt="CSS" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -38,10 +35,10 @@ Here are some of my projects.
 ### Design
 
 #### Digitoimisto Haiku
-[Haiku's site](https://www.haikudigital.fi)
+[Haiku's site][haikusite]
 
 #### North Patrol
-[North Patrol's site](https://www.northpatrol.fi)
+[North Patrol's site][northpatrolsite]
 
 ### Development
 
@@ -57,3 +54,5 @@ Well, this is a bit embarrassing... 🫣 A new year's resolution for 2026: <mark
 [linkedin]: https://www.linkedin.com/in/tuijalatva/
 [codepen]: https://codepen.io/pinokin/
 [githubfollowers]: https://github.com/pinokin?tab=followers
+[haikusite]: https://www.haikudigital.fi
+[northpatrolsite]: https://www.northpatrol.fi
