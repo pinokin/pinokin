@@ -1,5 +1,11 @@
-# Hi, my name is Tuija
-`I am a UX designer and a web developer from Helsinki, Finland, and I'm passionate about a11y and CSS.`
+<style>
+  .name {
+    color: red;
+  }
+</style>
+
+# Hi, my name is <span class="name">Tuija</span>
+`I am a **UX designer** and a **web developer** from Helsinki, Finland. Work-wise I am interested in learning everything about **accessibility** and **CSS**.`
 
 - 🔭 I’m currently working on a client website where I'm using Wordpress as a headless CMS, and the frontend is done with Astro.
 - 💬 Ask me about accessibility and CSS. And typography. And PKM (Personal Knowledge Management). And stickers. Oh, and cats! Ask me about my cats. 😻
