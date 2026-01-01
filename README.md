@@ -9,7 +9,7 @@ I am a <mark>**UX designer**</mark> and a <mark>**web developer**</mark> from He
 
 - 🔭 I’m currently working on a client website where I'm using _Wordpress as a headless CMS_, and the frontend is done with _Astro_.
 - 💬 Ask me about _accessibility_ and _CSS_. And _typography_. And PKM (_Personal Knowledge Management_). And _stickers_. Oh, and **_cats_**! Ask me about my cats. 😻
-- ⚡ Fun fact: I've studied over 20 languages during the years, some to a higher level and some... not. Currently I'm learning _Danish_ and _Korean_.
+- ⚡ Fun fact: I've studied over 20 languages during the years, some to a higher level and some... not so much. Currently I'm learning _Danish_ and _Korean_.
 
 ## Connect with me
 [<img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-7C4F0B?style=for-the-badge" />][linkedin]
@@ -19,8 +19,8 @@ I am a <mark>**UX designer**</mark> and a <mark>**web developer**</mark> from He
 <br />
 
 ## Languages and tools
-<img align="left" width="32px" style="padding-right:1rem;" alt="HTML" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" width="32px" style="padding-right:1rem;" alt="CSS" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" width="32px" style="padding-right:1rem;" alt="HTML" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" width="32px" style="padding-right:1rem;" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" width="32px" style="padding-right:1rem;" alt="C#" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" width="32px" style="padding-right:1rem;" alt="Astro" title="Astro" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
