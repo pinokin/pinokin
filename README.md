@@ -34,21 +34,26 @@ Here are some of my projects.
 > 🚧 This section is currently under construction.
 
 ### 🎨 Design
-My main role for the past 10 years have been _UX designer_.
+My main role for the past 10 years have been _UX designer_. Most of my design work happens behind the scenes and under NDAs, but there's still something to brag about:
 
-#### Digitoimisto Haiku
-As a freelancer, I designed the visual identity for Haiku's website. I also designed some of the CSS, but the actual coding (in Wordpress) was not done by me.
+> #### Digitoimisto Haiku
+> As a freelancer, I designed the visual identity for Haiku's website. I also designed some of the CSS, but the actual coding (in Wordpress) was not done by me.
+> 
+> [<img alt="Digitoimisto Haiku" title="Digitoimisto Haiku" src="https://custom-icon-badges.demolab.com/badge/Haiku%27s%20site-7C4F0B.svg?style=for-the-badge&logo=eye&logoColor=white" />][haikusite]
 
-[<img alt="Digitoimisto Haiku" title="Digitoimisto Haiku" src="https://custom-icon-badges.demolab.com/badge/Haiku%27s%20site-7C4F0B.svg?style=for-the-badge&logo=eye&logoColor=white" />][haikusite]
-
-#### North Patrol
-For my previous employer, I designed the layout for their website.
-
-[<img alt="North Patrol" title="North Patrol" src="https://custom-icon-badges.demolab.com/badge/North%20Patrol%27s%20site-7C4F0B.svg?style=for-the-badge&logo=eye&logoColor=white" />][northpatrolsite]
+> #### North Patrol
+> For my former employer, I designed the layout for their website.
+> 
+> [<img alt="North Patrol" title="North Patrol" src="https://custom-icon-badges.demolab.com/badge/North%20Patrol%27s%20site-7C4F0B.svg?style=for-the-badge&logo=eye&logoColor=white" />][northpatrolsite]
 
 ### 👩‍💻 Development
+I've started my career as a _backend developer_ (with .NET/C#) and moved on to _frontend development_. Even after becoming a UX designer, I have not abandoned coding - especially CSS. I love how CSS evolves all the time and I've been keeping up with it throughout the years.
 
-#### Testing CSS stuff in Codepen
+> #### Codepen
+> I like to test things out in Codepen.
+> 
+> [<img alt="Codepen" title="Codepen" src="https://custom-icon-badges.demolab.com/badge/My%20playground%20in%20Codepen-7C4F0B.svg?style=for-the-badge&logo=eye&logoColor=white" />][codepen]
+
 
 ## Statistics
 Well, this is a bit embarrassing... 🫣 A new year's resolution for 2026: <mark>**Be more active on Github**</mark>.
