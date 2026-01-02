@@ -20,11 +20,14 @@ I am a <mark>**UX designer**</mark> and a <mark>**web developer**</mark> from He
 <img align="left" width="32px" style="padding-right:1rem;" alt="HTML" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" width="32px" style="padding-right:1rem;" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" width="32px" style="padding-right:1rem;" alt="C#" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" width="32px" style="padding-right:1rem;" alt="VS Code" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="left" width="32px" style="padding-right:1rem;" alt="Figma" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<br />
+<br />
+### Currently learning
 <img align="left" width="32px" style="padding-right:1rem;" alt="Astro" title="Astro" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
 <img align="left" width="32px" style="padding-right:1rem;" alt="Vue.js" title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 <img align="left" width="32px" style="padding-right:1rem;" alt="WordPress" title="WordPress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
-<img align="left" width="32px" style="padding-right:1rem;" alt="VS Code" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" width="32px" style="padding-right:1rem;" alt="Figma" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <br />
 <br />
 
@@ -50,9 +53,9 @@ My main role for the past 10 years have been _UX designer_. Most of my design wo
 I've started my career as a _backend developer_ (with .NET/C#) and moved on to _frontend development_. Even after becoming a UX designer, I have not abandoned coding - especially CSS. I love how CSS evolves all the time and I've been keeping up with it throughout the years.
 
 > #### Codepen
-> I like to test things out in Codepen.
+> I like to test things out on Codepen.
 > 
-> [<img alt="Codepen" title="Codepen" src="https://custom-icon-badges.demolab.com/badge/My%20playground%20in%20Codepen-7C4F0B.svg?style=for-the-badge&logo=eye&logoColor=white" />][codepen]
+> [<img alt="Codepen" title="Codepen" src="https://custom-icon-badges.demolab.com/badge/My%20playground%20on%20Codepen-7C4F0B.svg?style=for-the-badge&logo=eye&logoColor=white" />][codepen]
 
 
 ## Statistics
