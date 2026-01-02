@@ -24,9 +24,10 @@ I am a <mark>**UX designer**</mark> and a <mark>**web developer**</mark> from He
 <img align="left" width="32px" style="padding-right:1rem;" alt="Figma" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <br />
 <br />
+
 ### Currently learning
-<img align="left" width="32px" style="padding-right:1rem;" alt="Astro" title="Astro" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
 <img align="left" width="32px" style="padding-right:1rem;" alt="Vue.js" title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+<img align="left" width="32px" style="padding-right:1rem;" alt="Astro" title="Astro" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
 <img align="left" width="32px" style="padding-right:1rem;" alt="WordPress" title="WordPress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
 <br />
 <br />
