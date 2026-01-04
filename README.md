@@ -31,6 +31,9 @@ I am a <mark>**UX designer**</mark> and a <mark>**web developer**</mark> from He
 <img align="left" width="32px" style="padding-right:1rem;" alt="WordPress" title="WordPress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
 <br />
 <br />
+I've also used _preact.js_ and _knockout.js_ in the past.
+<br />
+<br />
 
 ## Projects
 Here are some of my projects.
@@ -40,23 +43,60 @@ Here are some of my projects.
 ### 🎨 Design
 My main role for the past 10 years have been _UX designer_. Most of my design work happens behind the scenes and under NDAs, but there's still something to brag about:
 
-> #### Digitoimisto Haiku
-> As a freelancer, I designed the visual identity for Haiku's website. I also designed some of the CSS, but the actual coding (in Wordpress) was not done by me.
-> 
-> [<img alt="Digitoimisto Haiku" title="Digitoimisto Haiku" src="https://custom-icon-badges.demolab.com/badge/Haiku%27s%20site-7C4F0B.svg?style=for-the-badge&logo=eye&logoColor=white" />][haikusite]
+<img align="left" width="300px" style="padding-right:1rem;" alt="Digitoimisto Haiku" title="Digitoimisto Haiku" src="/haiku.png" />
+<h4>Digitoimisto Haiku</h4>
+<p>As a freelancer, I designed the visual identity for Haiku's website. I also designed some of the CSS, but the actual coding (in Wordpress) was not done by me.</p>
 
-> #### North Patrol
-> For my former employer, I designed the layout for their website.
-> 
-> [<img alt="North Patrol" title="North Patrol" src="https://custom-icon-badges.demolab.com/badge/North%20Patrol%27s%20site-7C4F0B.svg?style=for-the-badge&logo=eye&logoColor=white" />][northpatrolsite]
+[<img alt="Digitoimisto Haiku" title="Digitoimisto Haiku" src="https://custom-icon-badges.demolab.com/badge/Haiku%27s%20site-7C4F0B.svg?style=for-the-badge&logo=eye&logoColor=white" />][haikusite]
+
+<br />
+<br />
+<br />
+
+<img align="left" width="300px" style="padding-right:1rem;" alt="North Patrol" title="North Patrol" src="/north-patrol.jpg" />
+<h4>North Patrol</h4>
+<p>For my former employer, I designed the layout for their website.</p>
+
+[<img alt="North Patrol" title="North Patrol" src="https://custom-icon-badges.demolab.com/badge/North%20Patrol%27s%20site-7C4F0B.svg?style=for-the-badge&logo=eye&logoColor=white" />][northpatrolsite]
+
+<br />
+<br />
 
 ### 👩‍💻 Development
 I've started my career as a _backend developer_ (with .NET/C#) and moved on to _frontend development_. Even after becoming a UX designer, I have not abandoned coding - especially CSS. I love how CSS evolves all the time and I've been keeping up with it throughout the years.
 
-> #### Codepen
-> I like to test things out on Codepen.
-> 
-> [<img alt="Codepen" title="Codepen" src="https://custom-icon-badges.demolab.com/badge/My%20playground%20on%20Codepen-7C4F0B.svg?style=for-the-badge&logo=eye&logoColor=white" />][codepen]
+#### Codepen
+I like to test things out on Codepen.
+
+[<img alt="Codepen" title="Codepen" src="https://custom-icon-badges.demolab.com/badge/My%20playground%20on%20Codepen-7C4F0B.svg?style=for-the-badge&logo=eye&logoColor=white" />][codepen]
+
+<br />
+<br />
+
+<img align="left" width="300" style="padding-right:1rem;" alt="Codepen example 1" title="Codepen example 1" src="/codepen-example-1.png" />
+<article align="left">
+<h4>Nice text effects</h4>
+<p>Testing out possibilities with <b>box-decoration-break</b>.</p>
+</article>
+
+[<img align="left" alt="Codepen example 1 link" title="Codepen example 1 link" src="https://custom-icon-badges.demolab.com/badge/See%20example%20on%20Codepen-7C4F0B.svg?style=for-the-badge&logo=eye&logoColor=white" />][codepenex1]
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<img align="left" width="300px" style="padding-right:1rem;" alt="Codepen example 2" title="Codepen example 2" src="/codepen-example-2.png" />
+<article align="left">
+<h4>Cool hover animation</h4>
+<p>I did a tutorial about a cool animation that utilizes that animates an angle value.</p>
+</article>
+
+[<img alt="Codepen example 2 link" title="Codepen example 2 link" src="https://custom-icon-badges.demolab.com/badge/See%20example%20on%20Codepen-7C4F0B.svg?style=for-the-badge&logo=eye&logoColor=white" />][codepenex2]
+
+<br />
+<br />
 
 
 ## Statistics
@@ -68,6 +108,8 @@ Well, this is a bit embarrassing... 🫣 A new year's resolution for 2026: <mark
 [website]: https://pinokin.github.io/
 [linkedin]: https://www.linkedin.com/in/tuijalatva/
 [codepen]: https://codepen.io/pinokin/
+[codepenex1]: https://codepen.io/pinokin/pen/JodvWOJ
+[codepenex2]: https://codepen.io/pinokin/pen/GgJxmej
 [githubfollowers]: https://github.com/pinokin?tab=followers
 [haikusite]: https://www.haikudigital.fi
 [northpatrolsite]: https://www.northpatrol.fi
