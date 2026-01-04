@@ -63,11 +63,6 @@ My main role for the past 10 years have been _UX designer_. Most of my design wo
 
 ### 👩‍💻 Development
 I've started my career as a _backend developer_ (with .NET/C#) and moved on to _frontend development_. Even after becoming a UX designer, I have not abandoned coding - especially CSS. I love how CSS evolves all the time and I've been keeping up with it throughout the years.
-
-I like to test things out on Codepen.
-
-[<img alt="Codepen" title="Codepen" src="https://custom-icon-badges.demolab.com/badge/My%20playground%20on%20Codepen-7C4F0B.svg?style=for-the-badge&logo=eye&logoColor=white" />][codepen]
-
 <br />
 <br />
 
