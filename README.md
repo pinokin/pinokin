@@ -31,14 +31,11 @@ I am a <mark>**UX designer**</mark> and a <mark>**web developer**</mark> from He
 <img align="left" width="32px" style="padding-right:1rem;" alt="WordPress" title="WordPress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
 <br />
 <br />
+
 I've also used _preact.js_ and _knockout.js_ in the past.
-<br />
-<br />
 
 ## Projects
 Here are some of my projects.
-
-> 🚧 This section is currently under construction.
 
 ### 🎨 Design
 My main role for the past 10 years have been _UX designer_. Most of my design work happens behind the scenes and under NDAs, but there's still something to brag about:
@@ -67,7 +64,6 @@ My main role for the past 10 years have been _UX designer_. Most of my design wo
 ### 👩‍💻 Development
 I've started my career as a _backend developer_ (with .NET/C#) and moved on to _frontend development_. Even after becoming a UX designer, I have not abandoned coding - especially CSS. I love how CSS evolves all the time and I've been keeping up with it throughout the years.
 
-#### Codepen
 I like to test things out on Codepen.
 
 [<img alt="Codepen" title="Codepen" src="https://custom-icon-badges.demolab.com/badge/My%20playground%20on%20Codepen-7C4F0B.svg?style=for-the-badge&logo=eye&logoColor=white" />][codepen]
@@ -79,7 +75,7 @@ I like to test things out on Codepen.
 <br />
 <article align="left">
 <h4>Nice text effects</h4>
-<p>Testing out possibilities with <b>box-decoration-break</b>.</p>
+<p>I tested out some possibilities with <b>box-decoration-break</b>.</p>
 </article>
 
 [<img align="left" alt="Codepen example 1 link" title="Codepen example 1 link" src="https://custom-icon-badges.demolab.com/badge/See%20example%20on%20Codepen-7C4F0B.svg?style=for-the-badge&logo=eye&logoColor=white" />][codepenex1]
@@ -94,7 +90,7 @@ I like to test things out on Codepen.
 <br />
 <article align="left">
 <h4>Cool hover animation</h4>
-<p>I did a tutorial about a cool animation that utilizes that animates an angle value.</p>
+<p>A cool animation that animates an angle value through a typed custom property.</p>
 </article>
 
 [<img alt="Codepen example 2 link" title="Codepen example 2 link" src="https://custom-icon-badges.demolab.com/badge/See%20example%20on%20Codepen-7C4F0B.svg?style=for-the-badge&logo=eye&logoColor=white" />][codepenex2]
