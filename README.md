@@ -44,6 +44,7 @@ Here are some of my projects.
 My main role for the past 10 years have been _UX designer_. Most of my design work happens behind the scenes and under NDAs, but there's still something to brag about:
 
 <img align="left" width="300px" style="padding-right:1rem;" alt="Digitoimisto Haiku" title="Digitoimisto Haiku" src="/haiku.png" />
+<br />
 <h4>Digitoimisto Haiku</h4>
 <p>As a freelancer, I designed the visual identity for Haiku's website. I also designed some of the CSS, but the actual coding (in Wordpress) was not done by me.</p>
 
@@ -54,6 +55,7 @@ My main role for the past 10 years have been _UX designer_. Most of my design wo
 <br />
 
 <img align="left" width="300px" style="padding-right:1rem;" alt="North Patrol" title="North Patrol" src="/north-patrol.jpg" />
+<br />
 <h4>North Patrol</h4>
 <p>For my former employer, I designed the layout for their website.</p>
 
@@ -74,6 +76,7 @@ I like to test things out on Codepen.
 <br />
 
 <img align="left" width="300" style="padding-right:1rem;" alt="Codepen example 1" title="Codepen example 1" src="/codepen-example-1.png" />
+<br />
 <article align="left">
 <h4>Nice text effects</h4>
 <p>Testing out possibilities with <b>box-decoration-break</b>.</p>
@@ -88,6 +91,7 @@ I like to test things out on Codepen.
 <br />
 
 <img align="left" width="300px" style="padding-right:1rem;" alt="Codepen example 2" title="Codepen example 2" src="/codepen-example-2.png" />
+<br />
 <article align="left">
 <h4>Cool hover animation</h4>
 <p>I did a tutorial about a cool animation that utilizes that animates an angle value.</p>
@@ -97,7 +101,6 @@ I like to test things out on Codepen.
 
 <br />
 <br />
-
 
 ## Statistics
 Well, this is a bit embarrassing... 🫣 A new year's resolution for 2026: <mark>**Be more active on Github**</mark>.
